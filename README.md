@@ -1,4 +1,5 @@
 # DevOps Job Application Automation
+<img width="1060" height="800" alt="architecture_CLI" src="https://github.com/user-attachments/assets/b58b9bcd-54d0-46d8-af17-9df08a817a3e" />
 
 > AI-powered CLI pipeline that scrapes DevOps job listings, scores them against
 > my CV using a LLaMA model, auto-tailors the CV, and compiles a ready-to-send PDF.
