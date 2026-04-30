@@ -5,6 +5,7 @@
 > my CV using a LLaMA model, auto-tailors the CV, and compiles a ready-to-send PDF.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?logo=playwright)
 ![Groq](https://img.shields.io/badge/LLM-Groq%20LLaMA-purple)
 ![LaTeX](https://img.shields.io/badge/CV-LaTeX%20%2B%20pdflatex-orange)
 ![SQLite](https://img.shields.io/badge/DB-SQLite-lightgrey)
